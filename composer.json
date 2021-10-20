@@ -1,0 +1,14 @@
+{
+  "name": "m4rt1ns/utils-core",
+  "version": "1.0.0",
+  "type": "library",
+  "license": "ISC",
+  "autoload": {
+    "psr-4": {
+      "m4rt1ns\\Utils\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.0"
+  }
+}
